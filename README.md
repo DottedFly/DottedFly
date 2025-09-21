@@ -1,4 +1,4 @@
-## Hi there I'm Dotted Fly 
+## Hi there I'm Dotted Fly 👀
 
 # 💫 About Me:
 I'm currently learning to become a data analyst,<br>I'm also working on some personal projects to sharpen my skills.<br><br>I accidentally stumbled into the world of data, <br>and found myself falling too deep into the data rabbit hole.<br><br>I truly enjoy what I'm doing, <br>constantly learning new knowledge, testing my skills,<br>unlocking a new perspective about the world, <br>as well as possibilities around me, that I never knew existed before.
@@ -15,10 +15,7 @@ I'm currently learning to become a data analyst,<br>I'm also working on some per
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DottedFly&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DottedFly&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![testing](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DottedFly&icon=0&color=0)](https://visitcount.itsvg.in)
